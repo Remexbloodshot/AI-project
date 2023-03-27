@@ -2,7 +2,10 @@
   background-image: url("images/robotgradientintro2.jpg");
   background-position: 50% 50%;
 }
-
+.remexheader{
+  background-color: blueviolet;
+  height:100%;
+}
 .u-section-1 .u-sheet-1 {
   min-height: 760px;
 }
