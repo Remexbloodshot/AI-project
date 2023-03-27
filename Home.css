@@ -3,13 +3,34 @@
   background-position: 50% 50%;
 }
 .remexheader{
-  background-color: blueviolet;
-  height:100%;
+  background-color: rgb(106, 6, 206);
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  font-family: Calibri;
+  position: sticky;
+  display: flex;
+  align-items: center;
+}
+.remex{
+  margin: 0;
+  color: white;
+  margin-left: 190px;
+  text-shadow: 10px 5px 5px black;
+}
+.remexfooter{
+  text-align: center;
+  background-color: antiquewhite;
+  font-family: Calibri;
+  margin: 0;
+  position: sticky;
+}
+.foot{
+margin: 0;
 }
 .u-section-1 .u-sheet-1 {
   min-height: 760px;
 }
-
 .u-section-1 .u-image-1 {
   width: 178px;
   height: 178px;
